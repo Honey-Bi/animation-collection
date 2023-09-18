@@ -1,13 +1,19 @@
 {
   "files": {
-    "main.css": "/animation-collection/static/css/main.40866745.css",
-    "main.js": "/animation-collection/static/js/main.ce04d9b6.js",
+    "main.css": "/animation-collection/static/css/main.cc763662.css",
+    "main.js": "/animation-collection/static/js/main.9bb4c476.js",
+    "static/media/milky-way3.png": "/animation-collection/static/media/milky-way3.12a05f59a13ac9e257b0.png",
+    "static/media/milky-way.png": "/animation-collection/static/media/milky-way.859d759a96cee124bbb7.png",
+    "static/media/milky-way2.png": "/animation-collection/static/media/milky-way2.26d709b423fe4cbb7f26.png",
+    "static/media/plant-tree.png": "/animation-collection/static/media/plant-tree.0952fe625e6bc3d95737.png",
+    "static/media/plant-tree2.png": "/animation-collection/static/media/plant-tree2.76a3c68541add46de0e8.png",
+    "static/media/waterfall.png": "/animation-collection/static/media/waterfall.02ca675ed3bc79b32ad2.png",
     "index.html": "/animation-collection/index.html",
-    "main.40866745.css.map": "/animation-collection/static/css/main.40866745.css.map",
-    "main.ce04d9b6.js.map": "/animation-collection/static/js/main.ce04d9b6.js.map"
+    "main.cc763662.css.map": "/animation-collection/static/css/main.cc763662.css.map",
+    "main.9bb4c476.js.map": "/animation-collection/static/js/main.9bb4c476.js.map"
   },
   "entrypoints": [
-    "static/css/main.40866745.css",
-    "static/js/main.ce04d9b6.js"
+    "static/css/main.cc763662.css",
+    "static/js/main.9bb4c476.js"
   ]
 }
