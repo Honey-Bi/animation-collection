@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/animation-collection/static/css/main.cc763662.css",
-    "main.js": "/animation-collection/static/js/main.9bb4c476.js",
+    "main.js": "/animation-collection/static/js/main.5fe84cfe.js",
     "static/media/milky-way3.png": "/animation-collection/static/media/milky-way3.12a05f59a13ac9e257b0.png",
     "static/media/milky-way.png": "/animation-collection/static/media/milky-way.859d759a96cee124bbb7.png",
     "static/media/milky-way2.png": "/animation-collection/static/media/milky-way2.26d709b423fe4cbb7f26.png",
@@ -10,10 +10,10 @@
     "static/media/waterfall.png": "/animation-collection/static/media/waterfall.02ca675ed3bc79b32ad2.png",
     "index.html": "/animation-collection/index.html",
     "main.cc763662.css.map": "/animation-collection/static/css/main.cc763662.css.map",
-    "main.9bb4c476.js.map": "/animation-collection/static/js/main.9bb4c476.js.map"
+    "main.5fe84cfe.js.map": "/animation-collection/static/js/main.5fe84cfe.js.map"
   },
   "entrypoints": [
     "static/css/main.cc763662.css",
-    "static/js/main.9bb4c476.js"
+    "static/js/main.5fe84cfe.js"
   ]
 }
